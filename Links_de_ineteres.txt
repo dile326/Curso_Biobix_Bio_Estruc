@@ -1,0 +1,8 @@
+NCBI_Protein_Bank:
+https://www.ncbi.nlm.nih.gov/protein/?term=
+
+Protein_Blast:
+https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
+
+Protein_Data_Bank:
+https://www.rcsb.org/
