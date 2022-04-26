@@ -6,3 +6,12 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LI
 
 Protein_Data_Bank:
 https://www.rcsb.org/
+
+PyMol_Download:
+https://pymol.org/2/
+
+Modeller_Download:
+https://salilab.org/modeller/download_installation.html
+
+Jalview_Download:
+http://www.jalview.org/getdown/release/
